@@ -1,4 +1,4 @@
-package az.company;
+package az.company.calculation;
 
 
 import java.util.Scanner;

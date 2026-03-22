@@ -1,4 +1,4 @@
-package az.company.person;
+package az.company.calculation;
 
 public class SimpleCalculator {
     static void main(String[] args) {
@@ -8,7 +8,7 @@ public class SimpleCalculator {
         b = a - b;
         a = a - b;
 
-        System.out.println("a=" +  a + ", b=" + b);
+        System.out.println("a=" + a + ", b=" + b);
 
     }
 
